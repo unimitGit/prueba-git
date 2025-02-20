@@ -7,3 +7,4 @@ rama02 instruction modificada
 max power linea modificada
 nueva linea colaborador maxpower-crypto
 nueva linea fork maxpower-crypto
+nueva linea adicionada de main
