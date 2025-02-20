@@ -1,7 +1,7 @@
 
 PROGRAMA
 
-main primera modificacion instruction 01
+max primera intruccion alterada
 main instruction 02
 rama02 instruction modificada
 main, se crea una nueva linea
